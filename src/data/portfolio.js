@@ -1,20 +1,20 @@
 export default [
    {
-      title: 'Terminal Website',
-      imgUrl: '/assets/terminal-website.jpg',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      title: 'Devfolio Website',
+      imgUrl: '/assets/devfolio.png',
+      stack: ['HTML', 'TailwindCSS', 'Gatsby.JS'],
+      link: 'https://alexgreenfield.netlify.app',
    },
    {
-      title: 'Developer Portfolio',
-      imgUrl: '/assets/dev-portfolio.jpg',
-      stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
+      title: 'Python Finance Calculator',
+      imgUrl: '/assets/gui.png',
+      stack: ['Python'],
+      link: 'https://alexgreenfield.netlify.app/blog/my-fourth-blog/',
    },
    {
-      title: 'AI Nerf Gun',
-      imgUrl: '/assets/ai-nerf-gun.jpg',
-      stack: ['Python', 'C++', 'Robotics'],
+      title: 'Link Tree Project',
+      imgUrl: '/assets/linktree.png',
+      stack: ['HTML', 'CSS'],
       link: 'https://youtu.be/A8eegxL82PI',
    },
 ]
