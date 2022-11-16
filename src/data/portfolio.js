@@ -15,6 +15,6 @@ export default [
       title: 'Link Tree Project',
       imgUrl: '/assets/linktree.png',
       stack: ['HTML', 'CSS'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      link: 'https://linktree-ag.netlify.app',
    },
 ]
