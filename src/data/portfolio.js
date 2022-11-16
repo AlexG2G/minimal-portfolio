@@ -9,7 +9,7 @@ export default [
       title: 'Python Finance Calculator',
       imgUrl: '/assets/gui.png',
       stack: ['Python'],
-      link: 'https://alexgreenfield.netlify.app/blog/my-fourth-blog/',
+      link: 'https://alexgreenfield.netlify.app/blog/my-first-blog/',
    },
    {
       title: 'Link Tree Project',
