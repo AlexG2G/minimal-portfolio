@@ -6,23 +6,20 @@ function Intro() {
          <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">Alex</h1>
          <p className="text-base md:text-xl mb-3 font-medium">Software Engineer & Web Developer</p>
          <p className="text-sm max-w-xl mb-6 font-bold">
-            I'm an indie full-stack developer and content creator building my
-            version of the digital world one step at a time. All coding projects
-            are built from the ground up, from planning and designing all the way
-            to solving real-life problems with code.
-            <br />
-            All video content is built the same way, from ideation and planning,
-            all the way to finalizing the content with artistic touches. I publish
-            that content on my YouTube channel{' '}
+            Alex is a Software Engineer who is currently focusing on Web Development, Python Programming,
+            System Analysis & Modelling, Software Design and Cybersecurity.
+            He has many sought after skills in the ICT sector such as teamwork, collaboration,
+            problem-solving, and communication skills. He is currently studying a Bachelor of
+            Software Engineering at the University of Canberra.
+            {' '}
             <a
-               href="https://youtube.com/fknight"
+               href="https://www.youtube.com/channel/UCkTxrxFQw_hu3tJbRRar0kg"
                target="_blank"
                className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
                rel="noreferrer noopener"
             >
-               ForrestKnight
+               Alex Greenfield
             </a>{' '}
-            to more than 400k subscribers.
          </p>
       </div>
    )
